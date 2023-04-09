@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ulysses Cortes</h1>
 <h3 align="center">A passionate fullstack developer from California</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulyssescortes&label=Profile%20views&color=0e75b6&style=flat" alt="ulyssescortes" /> </p>
 
